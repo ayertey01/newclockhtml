@@ -1,2 +1,2 @@
 # newstoowatch
-create new stop watch using simple html and js scripts 
+created a new Timer using simple html. css and js scripts 
